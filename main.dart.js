@@ -65924,7 +65924,7 @@ r===$&&A.b()
 s=s.e
 s===$&&A.b()
 q=t.p
-return A.n9(B.iY,A.a([B.qr,A.aD(p,A.dZ(A.bt(A.a([A.aD(p,B.OD,B.A,p,100,p,p,450),B.OB,A.aj(p,s*0.1,p)],q),B.V,B.ax),p,p),p,B.xP,s*0.55,p,p,r*0.9)],q),B.a9,B.bw)}else return A.aD(p,p,p,p,p,p,p,p)},
+return A.n9(B.iY,A.a([B.qr,A.aD(p,A.dZ(A.bt(A.a([A.aD(p,B.OC,B.A,p,100,p,p,450),B.OB,A.aj(p,s*0.1,p)],q),B.V,B.ax),p,p),p,B.xP,s*0.55,p,p,r*0.9)],q),B.a9,B.bw)}else return A.aD(p,p,p,p,p,p,p,p)},
 $S:13}
 A.Pu.prototype={
 bG(){this.da()
@@ -65941,18 +65941,18 @@ I(a){var s=t.w
 this.d=A.bh(a,null,s).w.a.a
 A.bh(a,null,s).toString
 return new A.ew(new A.abb(this),null)},
-dY(){var s,r,q,p,o,n,m,l=this.d
-l===$&&A.b()
-if(l>1750)s=4
-else s=l>1350?3:2
-l=t.p
-r=A.a([B.M],l)
-for(q=this.f,p=0;p<6;){o=A.d0(A.a([q[p]],l),B.V,B.ax,B.Z);++p
-for(n=o.c,m=1;m<s;++m){B.b.B(n,B.Jo)
-if(p<6)B.b.B(n,q[p])
-else B.b.B(n,B.Jn);++p}r.push(o)
+dY(){var s,r,q,p,o,n,m,l,k,j=this.d
+j===$&&A.b()
+if(j>1750)s=4
+else s=j>1350?3:2
+j=t.p
+r=A.a([B.M],j)
+for(q=6/s,p=this.f,o=0,n=0;n<q;++n){m=A.d0(A.a([p[o]],j),B.V,B.ax,B.Z);++o
+for(l=m.c,k=1;k<s;++k){B.b.B(l,B.Jo)
+if(o<6)B.b.B(l,p[o])
+else B.b.B(l,B.Jn);++o}r.push(m)
 r.push(B.M)}q=this.d
-return A.n9(B.iY,A.a([B.qs,B.qr,A.aj(A.fj(A.fo(new A.abc(r),r.length)),null,q*0.9)],l),B.a9,B.bw)}}
+return A.n9(B.iY,A.a([B.qs,B.qr,A.aj(A.fj(A.fo(new A.abc(r),r.length)),null,q*0.9)],j),B.a9,B.bw)}}
 A.abb.prototype={
 $2(a,b){var s=null
 if(b.b>715)return this.a.dY()
@@ -65966,7 +65966,7 @@ I(a){var s,r,q=null,p=t.w,o=A.bh(a,q,p).w.a.a
 p=A.bh(a,q,p).w
 s=o*0.05
 r=t.p
-return A.bt(A.a([new A.dq(B.S,q,q,A.aD(q,q,B.bE,q,1,q,q,o*0.9),q),A.aj(new A.b2(new A.as(s,0,s,0),A.d0(A.a([A.d0(A.a([B.Ao,A.aj(q,q,o*0.021),B.Ap],r),B.V,B.t,B.Z),A.ul(!1,q,!0,B.OC,q,!0,q,q,q,q,q,q,q,q,q,new A.St(this),q,q,q,q)],r),B.V,B.FD,B.Z),q),p.a.b*0.07,q)],r),B.V,B.t)},
+return A.bt(A.a([new A.dq(B.S,q,q,A.aD(q,q,B.bE,q,1,q,q,o*0.9),q),A.aj(new A.b2(new A.as(s,0,s,0),A.d0(A.a([A.d0(A.a([B.Ao,A.aj(q,q,o*0.021),B.Ap],r),B.V,B.t,B.Z),A.ul(!1,q,!0,B.OD,q,!0,q,q,q,q,q,q,q,q,q,new A.St(this),q,q,q,q)],r),B.V,B.FD,B.Z),q),p.a.b*0.07,q)],r),B.V,B.t)},
 pf(){var s=0,r=A.X(t.z),q
 var $async$pf=A.Y(function(a,b){if(a===1)return A.U(b,r)
 while(true)switch(s){case 0:q=new A.Eq(A.a(["henomatias@gmail.com"],t.s))
@@ -71263,15 +71263,15 @@ B.OB=new A.e5("Game Programmer",null,B.O9,B.aO,null,null,null)
 B.f4=new A.e5("Player",null,B.bx,B.aO,null,null,null)
 B.wx=new A.e5("Katana",null,B.bx,B.aO,null,null,null)
 B.wy=new A.e5("Player\u200b",null,B.bx,B.aO,null,null,null)
+B.KI=new A.l(!0,B.h,null,null,null,null,70,B.aF,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.hv,null,null,null)
+B.OC=new A.e5("Matias",null,B.KI,B.aO,null,null,null)
 B.NW=new A.l(!0,B.dc,null,null,null,null,25,B.aF,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.OC=new A.e5("henomatias@gmail.com",null,B.NW,null,null,null,null)
+B.OD=new A.e5("henomatias@gmail.com",null,B.NW,null,null,null,null)
 B.wz=new A.e5("Enemies",null,B.bx,B.aO,null,null,null)
 B.f5=new A.e5("User Interface",null,B.bx,B.aO,null,null,null)
 B.f6=new A.e5("Asset optimization",null,B.bx,B.aO,null,null,null)
 B.Od=new A.l(!0,B.dc,null,"Avenir Light",null,null,26,B.aF,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.cy=new A.e5("My Tasks:",null,B.Od,null,null,null,null)
-B.KI=new A.l(!0,B.h,null,null,null,null,70,B.aF,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.hv,null,null,null)
-B.OD=new A.e5("Matias H\xe9no",null,B.KI,B.aO,null,null,null)
 B.Rn=new A.HZ(0,"system")
 B.OE=new A.x5(null)
 B.bU=new A.nk(0,"clamp")
