@@ -65321,7 +65321,7 @@ A.a8t.prototype={
 $1(a){var s=null,r=this.a.d
 r===$&&A.b()
 r*=a
-return A.aD(s,s,s,new A.aS(s,B.AN,A.bK(B.A),A.bz(15),s,s,B.q),r*0.5625,s,s,r)},
+return A.aD(s,s,s,new A.aS(s,B.AM,A.bK(B.A),A.bz(15),s,s,B.q),r*0.5625,s,s,r)},
 $S:3}
 A.a8q.prototype={
 $1(a){var s,r=null,q=this.a.d
@@ -65374,7 +65374,7 @@ m.e=k
 s=m.d
 r=s*0.05
 q=t.p
-p=A.a([A.dZ(A.aD(l,l,l,B.xO,k*0.6,l,l,s),l,l),new A.b2(new A.as(r,30,0,20),A.bN(l,l,B.G,l,l,!0,l,B.wn,B.C,l,l,1,B.z),l),new A.b2(new A.as(r,0,r,0),new A.dq(B.S,l,l,A.aD(l,l,B.bE,l,1,l,l,m.d*0.9),l),l)],q)
+p=A.a([A.dZ(A.aD(l,l,l,B.xP,k*0.6,l,l,s),l,l),new A.b2(new A.as(r,30,0,20),A.bN(l,l,B.G,l,l,!0,l,B.wn,B.C,l,l,1,B.z),l),new A.b2(new A.as(r,0,r,0),new A.dq(B.S,l,l,A.aD(l,l,B.bE,l,1,l,l,m.d*0.9),l),l)],q)
 s=new A.a98(m)
 k=new A.a95(m)
 o=new A.a97(m)
@@ -65447,22 +65447,22 @@ ad(){return new A.KN(new A.bE(null,t.sW),A.a([new A.fd(B.Ar,B.zd),new A.fd(B.As,
 A.KN.prototype={
 ba(){var s=this,r=s.c
 r.toString
-A.dE(B.xn,r)
+A.dE(B.xl,r)
 r=s.c
 r.toString
 A.dE(B.j9,r)
 r=s.c
 r.toString
+A.dE(B.jc,r)
+r=s.c
+r.toString
 A.dE(B.jb,r)
 r=s.c
 r.toString
-A.dE(B.jd,r)
+A.dE(B.j6,r)
 r=s.c
 r.toString
-A.dE(B.ja,r)
-r=s.c
-r.toString
-A.dE(B.xl,r)
+A.dE(B.xh,r)
 r=s.c
 r.toString
 A.dE(B.xj,r)
@@ -65471,10 +65471,10 @@ r.toString
 A.dE(B.xm,r)
 r=s.c
 r.toString
-A.dE(B.xh,r)
+A.dE(B.xg,r)
 r=s.c
 r.toString
-A.dE(B.xo,r)
+A.dE(B.xn,r)
 r=s.c
 r.toString
 A.dE(B.xi,r)
@@ -65483,10 +65483,10 @@ r.toString
 A.dE(B.xk,r)
 r=s.c
 r.toString
-A.dE(B.j7,r)
+A.dE(B.j8,r)
 r=s.c
 r.toString
-A.dE(B.j6,r)
+A.dE(B.j7,r)
 r=s.c
 r.toString
 A.dE(B.j5,r)
@@ -65495,10 +65495,10 @@ r.toString
 A.dE(B.jf,r)
 r=s.c
 r.toString
-A.dE(B.j8,r)
+A.dE(B.ja,r)
 r=s.c
 r.toString
-A.dE(B.jc,r)
+A.dE(B.jd,r)
 r=s.c
 r.toString
 A.dE(B.je,r)
@@ -65619,7 +65619,7 @@ A.aa9.prototype={
 $1(a){var s=null,r=this.a.d
 r===$&&A.b()
 r*=a
-return A.aD(s,s,s,new A.aS(s,B.AJ,A.bK(B.A),A.bz(15),s,s,B.q),r*0.5625,s,s,r)},
+return A.aD(s,s,s,new A.aS(s,B.AF,A.bK(B.A),A.bz(15),s,s,B.q),r*0.5625,s,s,r)},
 $S:3}
 A.aa6.prototype={
 $1(a){var s,r=null,q=this.a.d
@@ -65697,7 +65697,7 @@ A.abv.prototype={
 $1(a){var s=null,r=this.a.d
 r===$&&A.b()
 r*=a
-return A.aD(s,s,s,new A.aS(s,B.AD,A.bK(B.A),A.bz(15),s,s,B.q),r*0.5625,s,s,r)},
+return A.aD(s,s,s,new A.aS(s,B.AJ,A.bK(B.A),A.bz(15),s,s,B.q),r*0.5625,s,s,r)},
 $S:3}
 A.abs.prototype={
 $1(a){var s,r=null,q=this.a.d
@@ -65750,7 +65750,7 @@ s=l.d*0.05
 r=A.alT(!1,B.wM,"sBziByq9U3w")
 j=l.d
 q=t.p
-p=A.a([A.dZ(A.aD(k,k,k,B.xN,l.e*0.6,k,k,j),k,k),new A.b2(new A.as(s,30,0,20),A.bN(k,k,B.G,k,k,!0,k,B.wr,B.C,k,k,1,B.z),k),new A.b2(new A.as(s,0,s,0),new A.dq(B.S,k,k,A.aD(k,k,B.bE,k,1,k,k,l.d*0.9),k),k)],q)
+p=A.a([A.dZ(A.aD(k,k,k,B.xO,l.e*0.6,k,k,j),k,k),new A.b2(new A.as(s,30,0,20),A.bN(k,k,B.G,k,k,!0,k,B.wr,B.C,k,k,1,B.z),k),new A.b2(new A.as(s,0,s,0),new A.dq(B.S,k,k,A.aD(k,k,B.bE,k,1,k,k,l.d*0.9),k),k)],q)
 j=new A.acl(l,r)
 o=new A.aci(l)
 n=new A.ack(l)
@@ -65924,7 +65924,7 @@ r===$&&A.b()
 s=s.e
 s===$&&A.b()
 q=t.p
-return A.n9(B.iY,A.a([B.qr,A.aD(p,A.dZ(A.bt(A.a([A.aD(p,B.OC,B.A,p,100,p,p,450),B.OB,A.aj(p,s*0.1,p)],q),B.V,B.ax),p,p),p,B.xP,s*0.55,p,p,r*0.9)],q),B.a9,B.bw)}else return A.aD(p,p,p,p,p,p,p,p)},
+return A.n9(B.iY,A.a([B.qr,A.aD(p,A.dZ(A.bt(A.a([A.aD(p,B.OD,B.A,p,100,p,p,450),B.OB,A.aj(p,s*0.1,p)],q),B.V,B.ax),p,p),p,B.xN,s*0.55,p,p,r*0.9)],q),B.a9,B.bw)}else return A.aD(p,p,p,p,p,p,p,p)},
 $S:13}
 A.Pu.prototype={
 bG(){this.da()
@@ -65935,24 +65935,24 @@ if(r!=null)r.G(0,s.gdU())
 s.aP$=null
 s.aM()}}
 A.vI.prototype={
-ad(){return new A.MP(A.a([B.HB,B.HD,B.HF,B.HE,B.HG,B.HC],t.uB),B.j)}}
+ad(){return new A.MP(A.a([B.HF,B.HD,B.HB,B.HE,B.HG,B.HC],t.uB),B.j)}}
 A.MP.prototype={
 I(a){var s=t.w
 this.d=A.bh(a,null,s).w.a.a
 A.bh(a,null,s).toString
 return new A.ew(new A.abb(this),null)},
-dY(){var s,r,q,p,o,n,m,l,k,j=this.d
-j===$&&A.b()
-if(j>1750)s=4
-else s=j>1350?3:2
-j=t.p
-r=A.a([B.M],j)
-for(q=6/s,p=this.f,o=0,n=0;n<q;++n){m=A.d0(A.a([p[o]],j),B.V,B.ax,B.Z);++o
-for(l=m.c,k=1;k<s;++k){B.b.B(l,B.Jo)
-if(o<6)B.b.B(l,p[o])
-else B.b.B(l,B.Jn);++o}r.push(m)
+dY(){var s,r,q,p,o,n,m,l=this.d
+l===$&&A.b()
+if(l>1750)s=4
+else s=l>1350?3:2
+l=t.p
+r=A.a([B.M],l)
+for(q=this.f,p=0;p<6;){o=A.d0(A.a([q[p]],l),B.V,B.ax,B.Z);++p
+for(n=o.c,m=1;m<s;++m){B.b.B(n,B.Jo)
+if(p<6)B.b.B(n,q[p])
+else B.b.B(n,B.Jn);++p}r.push(o)
 r.push(B.M)}q=this.d
-return A.n9(B.iY,A.a([B.qs,B.qr,A.aj(A.fj(A.fo(new A.abc(r),r.length)),null,q*0.9)],j),B.a9,B.bw)}}
+return A.n9(B.iY,A.a([B.qs,B.qr,A.aj(A.fj(A.fo(new A.abc(r),r.length)),null,q*0.9)],l),B.a9,B.bw)}}
 A.abb.prototype={
 $2(a,b){var s=null
 if(b.b>715)return this.a.dY()
@@ -65966,7 +65966,7 @@ I(a){var s,r,q=null,p=t.w,o=A.bh(a,q,p).w.a.a
 p=A.bh(a,q,p).w
 s=o*0.05
 r=t.p
-return A.bt(A.a([new A.dq(B.S,q,q,A.aD(q,q,B.bE,q,1,q,q,o*0.9),q),A.aj(new A.b2(new A.as(s,0,s,0),A.d0(A.a([A.d0(A.a([B.Ao,A.aj(q,q,o*0.021),B.Ap],r),B.V,B.t,B.Z),A.ul(!1,q,!0,B.OD,q,!0,q,q,q,q,q,q,q,q,q,new A.St(this),q,q,q,q)],r),B.V,B.FD,B.Z),q),p.a.b*0.07,q)],r),B.V,B.t)},
+return A.bt(A.a([new A.dq(B.S,q,q,A.aD(q,q,B.bE,q,1,q,q,o*0.9),q),A.aj(new A.b2(new A.as(s,0,s,0),A.d0(A.a([A.d0(A.a([B.Ao,A.aj(q,q,o*0.021),B.Ap],r),B.V,B.t,B.Z),A.ul(!1,q,!0,B.OC,q,!0,q,q,q,q,q,q,q,q,q,new A.St(this),q,q,q,q)],r),B.V,B.FD,B.Z),q),p.a.b*0.07,q)],r),B.V,B.t)},
 pf(){var s=0,r=A.X(t.z),q
 var $async$pf=A.Y(function(a,b){if(a===1)return A.U(b,r)
 while(true)switch(s){case 0:q=new A.Eq(A.a(["henomatias@gmail.com"],t.s))
@@ -68769,22 +68769,22 @@ B.xf=new A.lC(3,"detached")
 B.fv=new A.o_(0,"polite")
 B.fw=new A.o_(1,"assertive")
 B.j5=new A.cb("GeoBanner.jpg")
-B.xh=new A.cb("RocketImage.jpg")
+B.j6=new A.cb("DwarfGif.gif")
+B.xg=new A.cb("RocketImage.jpg")
+B.xh=new A.cb("WhimGif.gif")
 B.xi=new A.cb("LostImage.jpg")
 B.xj=new A.cb("SupaImage.jpg")
-B.j6=new A.cb("RocketBanner.jpg")
+B.j7=new A.cb("RocketBanner.jpg")
 B.xk=new A.cb("WhimImage.jpg")
-B.j7=new A.cb("SupaBanner.jpg")
-B.xl=new A.cb("WhimGif.webp")
-B.j8=new A.cb("WhimBanner.jpg")
+B.xl=new A.cb("SupaFlipGif.gif")
+B.j8=new A.cb("SupaBanner.jpg")
+B.j9=new A.cb("RocketGif.gif")
+B.ja=new A.cb("WhimBanner.jpg")
 B.xm=new A.cb("screenPogU.jpg")
-B.j9=new A.cb("RocketGif.webp")
-B.ja=new A.cb("DwarfGif.webp")
-B.xn=new A.cb("SupaFlipGif.webp")
-B.jb=new A.cb("GeoGif.webp")
-B.jc=new A.cb("UnityLogo.png")
-B.jd=new A.cb("LostGif.webp")
-B.xo=new A.cb("GeoImage.jpg")
+B.jb=new A.cb("LostGif.gif")
+B.jc=new A.cb("GeoGif.gif")
+B.jd=new A.cb("UnityLogo.png")
+B.xn=new A.cb("GeoImage.jpg")
 B.fx=new A.cb("RaylibLogo.png")
 B.je=new A.cb("UnrealLogo.png")
 B.jf=new A.cb("LostBanner.jpg")
@@ -68840,30 +68840,30 @@ B.xL=new A.aV(48,1/0,48,1/0)
 B.jn=new A.lJ(3,"fitWidth")
 B.c9=new A.mh(3,"noRepeat")
 B.h8=new A.m1(1,"low")
-B.AA=new A.dG(B.jc,B.jn)
+B.AA=new A.dG(B.jd,B.jn)
 B.q=new A.rJ(0,"rectangle")
 B.jk=new A.aS(null,B.AA,null,null,null,null,B.q)
-B.AG=new A.dG(B.fx,B.jn)
-B.xM=new A.aS(null,B.AG,null,null,null,null,B.q)
+B.AE=new A.dG(B.fx,B.jn)
+B.xM=new A.aS(null,B.AE,null,null,null,null,B.q)
+B.xo=new A.cb("assets/SupaFlipGif.gif")
+B.aD=new A.lJ(2,"cover")
+B.AG=new A.dG(B.xo,B.aD)
+B.xN=new A.aS(null,B.AG,null,null,null,null,B.q)
 B.jo=new A.lJ(4,"fitHeight")
 B.AI=new A.dG(B.je,B.jo)
 B.jl=new A.aS(null,B.AI,null,null,null,null,B.q)
-B.aD=new A.lJ(2,"cover")
-B.AE=new A.dG(B.j7,B.aD)
-B.xN=new A.aS(null,B.AE,null,null,null,null,B.q)
-B.AM=new A.dG(B.j6,B.aD)
-B.jm=new A.aS(null,B.AM,null,null,null,null,B.q)
+B.AC=new A.dG(B.j8,B.aD)
+B.xO=new A.aS(null,B.AC,null,null,null,null,B.q)
+B.AN=new A.dG(B.j7,B.aD)
+B.jm=new A.aS(null,B.AN,null,null,null,null,B.q)
 B.AK=new A.dG(B.j5,B.aD)
-B.xO=new A.aS(null,B.AK,null,null,null,null,B.q)
-B.xg=new A.cb("assets/SupaFlipGif.webp")
-B.AB=new A.dG(B.xg,B.aD)
-B.xP=new A.aS(null,B.AB,null,null,null,null,B.q)
-B.AC=new A.dG(B.jf,B.aD)
-B.xQ=new A.aS(null,B.AC,null,null,null,null,B.q)
-B.AL=new A.dG(B.j8,B.aD)
+B.xP=new A.aS(null,B.AK,null,null,null,null,B.q)
+B.AB=new A.dG(B.jf,B.aD)
+B.xQ=new A.aS(null,B.AB,null,null,null,null,B.q)
+B.AL=new A.dG(B.ja,B.aD)
 B.xR=new A.aS(null,B.AL,null,null,null,null,B.q)
-B.AF=new A.dG(B.fx,B.jo)
-B.xS=new A.aS(null,B.AF,null,null,null,null,B.q)
+B.AD=new A.dG(B.fx,B.jo)
+B.xS=new A.aS(null,B.AD,null,null,null,null,B.q)
 B.xT=new A.lJ(6,"scaleDown")
 B.jp=new A.rI(0,"tight")
 B.jq=new A.rI(5,"strut")
@@ -69303,10 +69303,10 @@ B.kE=new A.kk(2,"initializedServices")
 B.Ax=new A.kk(3,"initializingUi")
 B.Ay=new A.kk(4,"initialized")
 B.Az=new A.Cb(1,"traversalOrder")
-B.AD=new A.dG(B.j9,B.aD)
-B.AH=new A.dG(B.jb,B.aD)
-B.AJ=new A.dG(B.jd,B.aD)
-B.AN=new A.dG(B.ja,B.aD)
+B.AF=new A.dG(B.jb,B.aD)
+B.AH=new A.dG(B.jc,B.aD)
+B.AJ=new A.dG(B.j9,B.aD)
+B.AM=new A.dG(B.j6,B.aD)
 B.h2=new A.te(0,"background")
 B.AO=new A.te(1,"foreground")
 B.QO=new A.LY(null)
@@ -70656,12 +70656,12 @@ B.va=new A.mM(1,"inAppWebView")
 B.Hz=new A.mM(2,"externalApplication")
 B.vb=new A.mM(3,"externalNonBrowserApplication")
 B.HA=new A.vH(null,null,null,null,null)
-B.HB=new A.i8("RocketImage.jpg","RocketGif.webp","Rocket Royal",5,null)
-B.HC=new A.i8("WhimImage.jpg","WhimGif.webp","Whim Of The Gods",0,null)
-B.HD=new A.i8("screenPogU.jpg","DwarfGif.webp","Dwarf Arena",4,null)
-B.HE=new A.i8("LostImage.jpg","LostGif.webp","Lost Rider",2,null)
-B.HF=new A.i8("SupaImage.jpg","SupaFlipGif.webp","SupaFlipMan!!",3,null)
-B.HG=new A.i8("GeoImage.jpg","GeoGif.webp","GeoStorm",1,null)
+B.HB=new A.i8("SupaImage.jpg","SupaFlipGif.gif","SupaFlipMan!!",3,null)
+B.HC=new A.i8("WhimImage.jpg","WhimGif.gif","Whim Of The Gods",0,null)
+B.HD=new A.i8("screenPogU.jpg","DwarfGif.gif","Dwarf Arena",4,null)
+B.HE=new A.i8("LostImage.jpg","LostGif.gif","Lost Rider",2,null)
+B.HF=new A.i8("RocketImage.jpg","RocketGif.gif","Rocket Royal",5,null)
+B.HG=new A.i8("GeoImage.jpg","GeoGif.gif","GeoStorm",1,null)
 B.HI=new A.vL(null,null,null,null,null,null)
 B.HJ=new A.br(4,4)
 B.HK=new A.br(8,8)
@@ -71263,15 +71263,15 @@ B.OB=new A.e5("Game Programmer",null,B.O9,B.aO,null,null,null)
 B.f4=new A.e5("Player",null,B.bx,B.aO,null,null,null)
 B.wx=new A.e5("Katana",null,B.bx,B.aO,null,null,null)
 B.wy=new A.e5("Player\u200b",null,B.bx,B.aO,null,null,null)
-B.KI=new A.l(!0,B.h,null,null,null,null,70,B.aF,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.hv,null,null,null)
-B.OC=new A.e5("Matias",null,B.KI,B.aO,null,null,null)
 B.NW=new A.l(!0,B.dc,null,null,null,null,25,B.aF,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.OD=new A.e5("henomatias@gmail.com",null,B.NW,null,null,null,null)
+B.OC=new A.e5("henomatias@gmail.com",null,B.NW,null,null,null,null)
 B.wz=new A.e5("Enemies",null,B.bx,B.aO,null,null,null)
 B.f5=new A.e5("User Interface",null,B.bx,B.aO,null,null,null)
 B.f6=new A.e5("Asset optimization",null,B.bx,B.aO,null,null,null)
 B.Od=new A.l(!0,B.dc,null,"Avenir Light",null,null,26,B.aF,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.cy=new A.e5("My Tasks:",null,B.Od,null,null,null,null)
+B.KI=new A.l(!0,B.h,null,null,null,null,70,B.aF,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.hv,null,null,null)
+B.OD=new A.e5("Matias H\xe9no",null,B.KI,B.aO,null,null,null)
 B.Rn=new A.HZ(0,"system")
 B.OE=new A.x5(null)
 B.bU=new A.nk(0,"clamp")
