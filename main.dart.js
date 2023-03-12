@@ -66533,7 +66533,7 @@ A.a0i.prototype={
 RA(a){$.AV().l(0,this,a)}}
 A.Fx.prototype={
 G(a){var s=null
-return new A.vc(B.AU,"My Portfolio",A.ai6(s,A.asK(B.aj,B.FF),"Avenir Light",s,s,s,!0),new A.RQ(s),s)}}
+return new A.vc(B.AU,"NoyaCode",A.ai6(s,A.asK(B.aj,B.FF),"Avenir Light",s,s,s,!0),new A.RQ(s),s)}}
 A.RQ.prototype={
 gko(){return A.cC([B.cl,B.bw,B.bx],t.F)}}
 A.ox.prototype={
