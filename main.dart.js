@@ -67509,7 +67509,7 @@ $S:0}
 A.EC.prototype={
 H(a){var s,r,q=null,p=t.w,o=A.bk(a,q,p).w
 p=A.bk(a,q,p).w
-s=Math.max(300,Math.min(Math.min(500,o.a.a*0.6),Math.min(500,p.a.b*0.8)))
+s=Math.max(240,Math.min(Math.min(500,o.a.a*0.6),Math.min(500,p.a.b*0.8)))
 r=s*100*0.0022
 return A.bz(A.a([A.aQ(q,B.AD,B.w,q,r,q,q,s),A.bc(B.AC,r*0.55,s*0.88)],t.p),B.B,B.av)}}
 A.vF.prototype={
