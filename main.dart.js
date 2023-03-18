@@ -66356,8 +66356,8 @@ r=t.p
 return A.aJ(A.bj(A.a([B.dK,new A.b9(new A.as(p,10,p,30),A.bt(q,q,B.ac,q,1,q,q,1/0),q),A.cv(A.a([A.aJ(A.cZ(A.bj(A.a([B.Ku,B.X,A.aG("- Classic (Red)",q,q,s,q),A.aG("- Slowing (Green)",q,q,s,q),A.aG("- Explosive (Grey)",q,q,s,q),A.aG("- Upgrades",q,q,s,q),B.D,B.fr,B.X,A.aG("- Shop bar",q,q,s,q),A.aG("- HUD",q,q,s,q),A.aG("- Game over menu",q,q,s,q),A.aG("- Credits menu",q,q,s,q)],r),B.S,B.v),B.o,B.aE),q,n),A.aJ(A.cZ(A.bj(A.a([B.iR,B.X,A.aG("- Warrior",q,q,s,q),A.aG("- Berserker",q,q,s,q),A.aG("- Healer",q,q,s,q),A.aG("- Enemy waves",q,q,s,q),B.D,B.Kt,B.X,A.aG("Implement:",q,q,s,q),A.aG("\u2192 sounds",q,q,s,q),A.aG("\u2192 musics",q,q,s,q)],r),B.S,B.v),B.o,B.aE),q,m)],r),B.S,B.dj,B.R)],r),B.y,B.ae),q,o)},
 $S:4}
 A.a4a.prototype={
-$1(a){var s=null,r=this.a*a
-return A.aJ(A.hQ(A.bt(s,s,s,new A.du(s,A.ox(B.ea,new A.bA("assets/RaylibLogo.png",s,s)),s,s,s,s,B.aF),300,s,s,r*0.6),s,s),s,r)},
+$1(a){var s=null
+return A.aJ(A.hQ(A.bt(s,s,s,new A.du(s,A.ox(B.ea,new A.bA("assets/RaylibLogo.png",s,s)),s,s,s,s,B.aF),300,s,s,s),s,s),s,this.a*a)},
 $S:4}
 A.a48.prototype={
 $2(a,b){var s=this.a
