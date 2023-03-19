@@ -66382,7 +66382,7 @@ A.Bd.prototype={
 G(b3){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c=null,b="Merienda",a="Avenir Light",a0="Game Developer ",a1="Game Programming",a2="ISART Digital ",a3="competitive video games ",a4="esports scene",a5="adrenaline ",a6="thinking required ",a7="constant evolution ",a8=t.w,a9=A.bf(b3,c,a8).w.a.a,b0=a9*0.1,b1=A.bf(b3,c,a8).w.a.b,b2=a9<1000?a9:a9*0.68
 a8=b1*0.05
 s=A.aJ(c,a8,c)
-r=Math.max(b1-270,520)
+r=Math.max(b1-270,500)
 q=A.alc(300)
 p=A.aJ(c,c,a9*0.025)
 o=A.bh(c,c,B.x,c,c,!0,c,A.J(B.lr,A.cl(c,c,B.a0,c,c,c,c,c,b,c,c,40,c,c,B.a1,c,c,!0,c,c,c,c,c,c,c,c),c),B.p,c,c,1,B.q)
