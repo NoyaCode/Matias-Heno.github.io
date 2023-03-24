@@ -66101,7 +66101,7 @@ return new A.vo(B.BC,"NoyaCode",A.ae9(s,A.aoH(B.aq,B.Gl),"Avenir Light",s,s,s,!0
 A.RE.prototype={
 gkp(){return A.cA([B.cu,B.bD,B.bE],t.F)}}
 A.oE.prototype={
-G(a){var s,r,q,p,o,n=null,m="https://github.com/NoyaCode",l="assets/DwarfBanner.jpg",k="assets/DwarfGif.webp",j={},i=A.bf(a,n,t.w).w.a.a,h=i*0.075
+G(a){var s,r,q,p,o,n=null,m="https://github.com/NoyaCode/Dwarf-Arena",l="assets/DwarfBanner.jpg",k="assets/DwarfGif.webp",j={},i=A.bf(a,n,t.w).w.a.a,h=i*0.075
 j.a=j.b=null
 s=new A.TU(i,B.aP,B.Z)
 r=new A.TW(i,B.aP)
@@ -66132,7 +66132,7 @@ if(b.b>900)return new A.dU(s.b,null)
 else return new A.dU(s.a,null)},
 $S:30}
 A.oR.prototype={
-G(a){var s,r,q,p,o,n=null,m="https://github.com/NoyaCode",l="assets/GeoBanner.jpg",k="assets/GeoGif.webp",j={},i=A.bf(a,n,t.w).w.a.a,h=i*0.075
+G(a){var s,r,q,p,o,n=null,m="https://github.com/NoyaCode/GeoStorm",l="assets/GeoBanner.jpg",k="assets/GeoGif.webp",j={},i=A.bf(a,n,t.w).w.a.a,h=i*0.075
 j.a=j.b=null
 s=new A.Vj(i,B.aP,B.Z)
 r=new A.Vl(i,B.aP)
@@ -66242,7 +66242,7 @@ bu(){this.cQ()
 this.cv()
 this.iu()}}
 A.pl.prototype={
-G(a){var s,r,q,p,o,n=null,m="https://github.com/NoyaCode",l="assets/LostBanner.jpg",k="assets/LostGif.gif",j={},i=A.bf(a,n,t.w).w.a.a,h=i*0.075
+G(a){var s,r,q,p,o,n=null,m="https://github.com/NoyaCode/Lost-Rider",l="assets/LostBanner.jpg",k="assets/LostGif.gif",j={},i=A.bf(a,n,t.w).w.a.a,h=i*0.075
 j.a=j.b=null
 s=new A.XQ(i,B.aP,B.Z)
 r=new A.XS(i,B.aP,B.Z)
@@ -66270,7 +66270,7 @@ if(b.b>900)return new A.dU(s.b,null)
 else return new A.dU(s.a,null)},
 $S:30}
 A.pU.prototype={
-G(a){var s,r,q,p,o,n=null,m="PC / PS4",l="https://github.com/NoyaCode",k="assets/RocketBanner.jpg",j="assets/RocketGif.webp",i={},h=A.bf(a,n,t.w).w.a.a,g=h*0.075
+G(a){var s,r,q,p,o,n=null,m="PC / PS4",l="https://github.com/NoyaCode/Rocket-Royal",k="assets/RocketBanner.jpg",j="assets/RocketGif.webp",i={},h=A.bf(a,n,t.w).w.a.a,g=h*0.075
 i.a=i.b=null
 s=new A.a0w(h,B.aP,B.Z)
 r=new A.a0y(h,B.aP)
@@ -66301,7 +66301,7 @@ if(b.b>900)return new A.dU(s.b,null)
 else return new A.dU(s.a,null)},
 $S:30}
 A.qk.prototype={
-G(a){var s,r,q,p,o,n,m=null,l="https://github.com/NoyaCode",k="assets/SupaBanner.jpg",j={},i=A.bf(a,m,t.w).w.a.a,h=i*0.075
+G(a){var s,r,q,p,o,n,m=null,l="https://github.com/NoyaCode/SupaFlipMan",k="assets/SupaBanner.jpg",j={},i=A.bf(a,m,t.w).w.a.a,h=i*0.075
 j.a=j.b=null
 s=A.aiR(!1,B.xh,"sBziByq9U3w")
 r=new A.a2y(i,B.aP,B.Z)
@@ -66382,7 +66382,7 @@ A.Bd.prototype={
 G(b3){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c=null,b="Merienda",a="Avenir Light",a0="Game Developer ",a1="Game Programming",a2="ISART Digital ",a3="competitive video games ",a4="esports scene",a5="adrenaline ",a6="thinking required ",a7="constant evolution ",a8=t.w,a9=A.bf(b3,c,a8).w.a.a,b0=a9*0.1,b1=A.bf(b3,c,a8).w.a.b,b2=a9<1000?a9:a9*0.68
 a8=b1*0.05
 s=A.aJ(c,a8,c)
-r=Math.max(b1-270,500)
+r=Math.max(b1-270,450)
 q=A.alc(300)
 p=A.aJ(c,c,a9*0.025)
 o=A.bh(c,c,B.x,c,c,!0,c,A.J(B.lr,A.cl(c,c,B.a0,c,c,c,c,c,b,c,c,40,c,c,B.a1,c,c,!0,c,c,c,c,c,c,c,c),c),B.p,c,c,1,B.q)
