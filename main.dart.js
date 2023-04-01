@@ -66829,7 +66829,7 @@ return A.aJ(A.bk(A.a([A.bi(s,s,B.w,s,s,!0,s,A.I(A.a([A.I(s,q,"   Lost Rider "),B
 $S:4}
 A.XN.prototype={
 $1(a){var s=null,r=this.a*a,q=r*0.05,p=r*0.1,o=this.b,n=this.c,m=t.R,l=t.p
-return A.aJ(A.bk(A.a([B.PJ,new A.ba(new A.as(q,10,q,30),A.bt(s,s,B.ac,s,1,s,s,1/0),s),new A.ba(new A.as(p,0,p,0),A.bk(A.a([A.bi(s,s,B.w,s,s,!0,s,A.I(A.a([B.Ki,A.I(s,n,"solo project"),B.KD,A.I(s,n,"tight deadline"),B.KN,A.I(s,n,"new game engine "),B.Kg],m),o,s),B.q,s,s,1,B.p),B.E,A.bi(s,s,B.w,s,s,!0,s,A.I(A.a([B.K5,A.I(s,n,"programming "),B.Ln,A.I(s,n,"level design"),B.K4,A.I(s,n,"challenge "),B.is,A.I(s,n,"enjoyment"),B.Kn,A.I(s,n,"gameplay goals"),B.f_],m),o,s),B.q,s,s,1,B.p)],l),B.R,B.v),s)],l),B.x,B.v),s,r)},
+return A.aJ(A.bk(A.a([B.PK,new A.ba(new A.as(q,10,q,30),A.bt(s,s,B.ac,s,1,s,s,1/0),s),new A.ba(new A.as(p,0,p,0),A.bk(A.a([A.bi(s,s,B.w,s,s,!0,s,A.I(A.a([B.Ki,A.I(s,n,"solo project"),B.KD,A.I(s,n,"tight deadline"),B.KN,A.I(s,n,"new game engine "),B.Kg],m),o,s),B.q,s,s,1,B.p),B.E,A.bi(s,s,B.w,s,s,!0,s,A.I(A.a([B.K5,A.I(s,n,"programming "),B.Ln,A.I(s,n,"level design"),B.K4,A.I(s,n,"challenge "),B.is,A.I(s,n,"enjoyment"),B.Kn,A.I(s,n,"gameplay goals"),B.f_],m),o,s),B.q,s,s,1,B.p)],l),B.R,B.v),s)],l),B.x,B.v),s,r)},
 $S:4}
 A.XM.prototype={
 $1(a){var s=null
@@ -67057,7 +67057,7 @@ $2(a,b){return this.a[b]},
 $S:54}
 A.Ca.prototype={
 G(a){var s=null,r=A.bg(a,s,t.w).w.a.a,q=r*0.05,p=Math.max(200,r*0.18),o=t.p
-return A.bt(s,A.bk(A.a([A.bt(s,s,B.ac,s,1,s,s,1/0),A.ah6(A.cu(A.a([A.aJ(B.AJ,1/0,Math.min(r*0.2,120)),A.oH(!1,s,!0,A.aJ(B.AL,1/0,p),s,!0,s,s,s,s,s,s,s,s,s,new A.SF(this),s,s,s,s)],o),B.x,B.hG,B.Q))],o),B.x,B.ae),s,s,75,s,new A.as(q,0,q,0),s)},
+return A.bt(s,A.bk(A.a([A.bt(s,s,B.ac,s,1,s,s,1/0),A.ah6(A.cu(A.a([A.aJ(B.AI,1/0,Math.min(r*0.2,120)),A.oH(!1,s,!0,A.aJ(B.AL,1/0,p),s,!0,s,s,s,s,s,s,s,s,s,new A.SF(this),s,s,s,s)],o),B.x,B.hG,B.Q))],o),B.x,B.ae),s,s,75,s,new A.as(q,0,q,0),s)},
 pm(){var s=0,r=A.U(t.z),q
 var $async$pm=A.V(function(a,b){if(a===1)return A.R(b,r)
 while(true)switch(s){case 0:q=new A.Eu(A.a(["henomatias@gmail.com"],t.s))
@@ -67168,7 +67168,7 @@ G(a){var s,r,q=null,p=t.w,o=A.bg(a,q,p).w
 p=A.bg(a,q,p).w
 s=Math.max(240,Math.min(Math.min(500,o.a.a*0.6),Math.min(500,p.a.b*0.8)))
 r=s*100*0.0022
-return A.bk(A.a([A.bt(q,B.AK,B.a_,q,r,q,q,s),A.aJ(B.AI,r*0.55,s*0.88)],t.p),B.x,B.ae)}}
+return A.bk(A.a([A.bt(q,B.AK,B.a_,q,r,q,q,s),A.aJ(B.AJ,r*0.55,s*0.88)],t.p),B.x,B.ae)}}
 A.kR.prototype={
 ag(){return new A.MX(null,null,B.k)}}
 A.MX.prototype={
@@ -70633,13 +70633,6 @@ B.cb=new A.on(0,"none")
 B.cQ=new A.on(1,"low")
 B.h0=new A.on(2,"medium")
 B.h1=new A.on(3,"high")
-B.G0=new A.q(2,2)
-B.Ij=new A.io(B.n,B.G0,6)
-B.l6=A.a(s([B.Ij]),t.kO)
-B.Pi=new A.k(!0,B.j,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.l6,null,null,null)
-B.cw=new A.jy(2,"center")
-B.PK=new A.jx("Game Developer",null,B.Pi,B.cw,null,null,null)
-B.AI=new A.km(B.bp,B.o,B.PK,null)
 B.v=new A.oZ(0,"start")
 B.Q=new A.Ev(1,"max")
 B.dE=new A.Iy(1,"down")
@@ -70650,7 +70643,14 @@ B.B0=new A.DU(61580,"FontAwesomeBrands","font_awesome_flutter",!1)
 B.A0=new A.o6(B.B0,"https://www.linkedin.com/in/matias-heno/",null)
 B.D6=A.a(s([B.A_,B.IL,B.A0]),t.p)
 B.Hh=new A.w9(B.aW,B.v,B.Q,B.x,null,B.dE,null,B.D6,null)
-B.AJ=new A.km(B.aC,B.o,B.Hh,null)
+B.AI=new A.km(B.aC,B.o,B.Hh,null)
+B.G0=new A.q(2,2)
+B.Ij=new A.io(B.n,B.G0,6)
+B.l6=A.a(s([B.Ij]),t.kO)
+B.Pi=new A.k(!0,B.j,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.l6,null,null,null)
+B.cw=new A.jy(2,"center")
+B.PJ=new A.jx("Game Programmer",null,B.Pi,B.cw,null,null,null)
+B.AJ=new A.km(B.bp,B.o,B.PJ,null)
 B.a0=new A.fr(6)
 B.i=new A.q(0,0)
 B.Ik=new A.io(B.n,B.i,6)
@@ -72645,7 +72645,7 @@ B.Oe=new A.k(!0,B.j,null,"Roboto",null,null,null,null,null,null,null,null,null,n
 B.PH=new A.dl(B.NU,B.Pl,B.P_,B.Mo,B.OR,B.NO,B.Pp,B.MU,B.Nt,B.OK,B.Mf,B.P0,B.OO,B.OG,B.Oe)
 B.PI=new A.I9(1,"longestLine")
 B.wo=new A.k(!0,B.al,null,"Merienda",null,null,26,B.a0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.PJ=new A.jx("The Challenge:",null,B.wo,null,null,null,null)
+B.PK=new A.jx("The Challenge:",null,B.wo,null,null,null,null)
 B.dD=new A.jx("My Tasks:",null,B.wo,null,null,null,null)
 B.Sw=new A.a3F(0,"system")
 B.PN=new A.x6(null)
